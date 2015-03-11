@@ -1,0 +1,22 @@
+# Python compile trash
+
+*.pyc
+*.pyo
+pyvcd.egg-info/
+.coverage
+
+# Editor trash
+
+*.swp
+*.swo
+.idea/
+.project
+.pydevproject
+
+# Windows trash
+
+Thumbs.db
+
+# Mac trash
+
+.DS_Store
