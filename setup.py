@@ -3,15 +3,11 @@ from setuptools import setup
 
 setup(
     name='pyvcd',
-    version='0.0.1a1',
+    version='0.1.0',
     packages=[
         'pyvcd',
     ],
     install_requires=[
-        'coverage',
-        'lxml',
-        'mock',
-        'nose',
         'requests',
     ],
 )
